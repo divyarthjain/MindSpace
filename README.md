@@ -9,7 +9,6 @@
 [![GitHub last commit](https://img.shields.io/github/last-commit/divyarthjain/MindSpace?color=red)](https://github.com/divyarthjain/MindSpace/commits/main)
 [![Discord](https://img.shields.io/badge/Discord-MindSpace-purple?logo=discord&logoColor=white)](https://discord.gg/AhGmsrzfUx)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
-[![Docker Pulls](https://img.shields.io/docker/pulls/divyarthjain/mindspace.svg)](https://hub.docker.com/r/divyarthjain/mindspace)
 
 
 ## 🧠 About MindSpace
