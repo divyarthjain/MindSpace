@@ -193,5 +193,6 @@ MindSpace is released under the MIT License. See the [LICENSE](LICENSE) file for
 Join our [Discord community](https://discord.gg/AhGmsrzfUx) for questions, discussions, and support.
 
 ---
-
+# SummerOfCodeFest'25"
+# GSoc Innovators Club
 🧠 MindSpace: Take care of your mind, one day at a time
