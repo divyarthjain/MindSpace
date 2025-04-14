@@ -195,4 +195,12 @@ Join our [Discord community](https://discord.gg/AhGmsrzfUx) for questions, discu
 ---
 # SummerOfCodeFest'25"
 # GSoc Innovators Club
+
+## created by 
+- Kritika Sharma
+- Divyarth Jain
+- Kalindi Kiran Deshmukh
+- Krish Chaudhari 
 🧠 MindSpace: Take care of your mind, one day at a time
+
+
