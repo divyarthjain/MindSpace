@@ -143,7 +143,7 @@ After installation, access Open WebUI at [http://localhost:3000](http://localhos
 Navigate to the n8n directory:
 
 ```bash
-cd ../n8n
+cd ../n8n/docker-compose/withPostgres
 ```
 
 > **⚠️ IMPORTANT:** Before proceeding, update the default credentials in the `.env` file!
