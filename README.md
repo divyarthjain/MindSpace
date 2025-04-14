@@ -79,7 +79,7 @@ MindSpace is an open-source mental health tracker that provides a suite of tools
     </td>
     <td width="33%">
       <h4>🎤📹 Multimedia Support</h4>
-      <p>Voice and video capabilities for more dynamic interactions</p>
+      <p>Voice capabilities for more dynamic interactions</p>
     </td>
   </tr>
 </table>
